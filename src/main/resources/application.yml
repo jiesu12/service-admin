@@ -16,3 +16,5 @@ management:
   endpoint:
     health:
       show-details: ALWAYS
+
+logging.file.name: /tmp/service-admin.log
